@@ -10,5 +10,5 @@ My Name is Suresh, How are you? Welcome to my fantasy website
 
 
 # DEMOS
-I want to show some demonstration class for you
-![] (https://raw.githubusercontent.com/gee-community/geemap/master/docs/assets/logo.png)
+
+![](https://raw.githubusercontent.com/gee-community/geemap/master/docs/assets/logo.png)
